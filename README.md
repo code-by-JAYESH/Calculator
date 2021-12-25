@@ -1,6 +1,4 @@
 # Calculator
-My first project on github platform to understand how github is work.
-
 A simple calculator that can add, subtract, multiply or divide depending upon the input from the user.
 In this example, we should have the knowledge of the following Python programming topics:
 
